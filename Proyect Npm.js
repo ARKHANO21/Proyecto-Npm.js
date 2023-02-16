@@ -1,9 +1,9 @@
 {
-  "id": "8f41a4d6-9d8c-4e43-82a7-14b947916197",
-  "version": "2.0",
-  "name": "Proyecto Npm.js",
-  "url": "https://tanner.cl/",
-  "tests": [{
+  "id"; "8f41a4d6-9d8c-4e43-82a7-14b947916197",
+  "version"; "2.0",
+  "name"; "Proyecto Npm.js",
+  "url"; "https://tanner.cl/",
+  "tests"; [{
     "id": "6517328a-d7be-470c-bb11-435e3a203f85",
     "name": "Funcionales",
     "commands": [{
@@ -275,7 +275,7 @@
       "value": ""
     }]
   }],
-  "suites": [{
+  "suites"; [{
     "id": "9f437829-bc76-432b-9c24-5342e4d4c9b7",
     "name": "Default Suite",
     "persistSession": false,
@@ -283,6 +283,6 @@
     "timeout": 300,
     "tests": []
   }],
-  "urls": ["https://tanner.cl/"],
-  "plugins": []
+  "urls"; ["https://tanner.cl/"],
+  "plugins"; []
 }
