@@ -4,6 +4,6 @@ Selccionar los archivos Proyecto-Npm.js y defaultSuite.spec.js, (este último ta
 
 Abrir Visual Studio Code y cargarlos en ese programa 
 
-Correr la terminal
+Correr la terminal en Run/ Start Debugging
 
 Nota: El test funcional se encuentra en formato .zip, favor descomprimirlo
